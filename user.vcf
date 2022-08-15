@@ -1,14 +1,14 @@
 BEGIN:VCARD
 VERSION:3.0
-PRODID:-//Apple Inc.//iPhone OS 14.4.2//EN
+PRODID:-//Apple Inc.//iPhone OS 15.6//EN
 N:Gonzales;Eric;;;
 FN: Eric  Gonzales 
-ORG:3d Medical Battalion;
-TITLE:Executive Officer, H&S Company
-EMAIL;type=INTERNET;type=WORK;type=pref:eric.gonzales@usmc.mil
-TEL;type=WORK;type=VOICE:011+81 098 791 3112
-item1.ADR;type=WORK;type=pref:;;Unit 38445\FPO AP;;; 96373-8445;Camp Foster
+ORG:US NMRTC Yokosuka, Japan;
+TITLE:Head, MAteriel Management Department
+EMAIL;type=INTERNET;type=WORK;type=pref:eric.j.gonzales.mil@mail.mil
+TEL;type=WORK;type=VOICE:046-816-9970
+item1.ADR;type=WORK;type=pref:;;PSC 475 Box 1\FPO AP;;; 96350;
 item1.X-ABADR:sg
-item2.URL;type=pref:https://www.3rdmlg.marines.mil/Units/Subordinate-Units/3d-Medical-Battalion/
+item2.URL;type=pref:https://www.med.navy.mil/US-NMRTC-Yokosuka-Japan/
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
